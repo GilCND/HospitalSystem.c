@@ -11,4 +11,4 @@
 #### Search for patients name
 #### Show patients less critical to most critical
 #### Tally up the hospital month earnings
-#### Load precius data
+
