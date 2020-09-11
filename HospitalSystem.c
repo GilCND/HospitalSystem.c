@@ -5,6 +5,17 @@ Program: HospitalSystem.c
 Date: 24/04/2020
 Autor: Felipe SG
 Program Details:
+This program should have
+A menu with options to:
+Add new patients
+Edit patient record
+Delete patient
+Display all existing patient records
+Save all patients records into a file
+Search for patients name
+Show patients less critical to most critical
+Tally up the hospital month earnings
+Load precius data
 -------------------------------------------------------------------------------------
 Change log
 -------------------------------------------------------------------------------------
