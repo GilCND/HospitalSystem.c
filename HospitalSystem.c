@@ -15,7 +15,6 @@ Save all patients records into a file
 Search for patients name
 Show patients less critical to most critical
 Tally up the hospital month earnings
-Load precius data
 -------------------------------------------------------------------------------------
 Change log
 -------------------------------------------------------------------------------------
