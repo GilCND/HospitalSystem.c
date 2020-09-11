@@ -1,6 +1,6 @@
 # HospitalSystem.c
 
-## Create a software able to input data and save into memory spaces (Using Linked Lists)
+## Create a software able to input data and save into memory spaces and files (Using Linked Lists)
 ## This program should have
 ### A menu with options to: 
 #### Add new patients 
